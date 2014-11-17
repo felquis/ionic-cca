@@ -10,6 +10,10 @@
     <preference name="StatusBarBackgroundColor" value="#000000"/>
     <preference name="iosPersistentFileLocation" value="Library"/>
     <preference name="AndroidPersistentFileLocation" value="Internal"/>
+    <preference name="webviewbounce" value="false"/>
+    <preference name="UIWebViewBounce" value="false"/>
+    <preference name="DisallowOverscroll" value="true"/>
+    <preference name="BackupWebStorage" value="none"/>
 
     <content src="plugins/org.chromium.bootstrap/chromeapp.html"/>
 <access origin="*"/></widget>
