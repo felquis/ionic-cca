@@ -9,6 +9,8 @@ angular.module('starter.controllers', [])
 
 .controller('FriendDetailCtrl', function($scope, $stateParams, Friends) {
   $scope.friend = Friends.get($stateParams.friendId);
+
+  console.log($scope.friend);
 })
 
 .controller('AccountCtrl', function($scope) {
