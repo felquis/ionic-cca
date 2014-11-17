@@ -1,0 +1,20 @@
+{
+    "plugin_search_path": [
+        "/usr/local/lib/node_modules/cca/cordova",
+        "/usr/local/lib/node_modules/cca/cordova/cordova-plugins"
+    ],
+    "lib": {
+        "android": {
+            "uri": "/usr/local/lib/node_modules/cca/cordova/cordova-android",
+            "url": "/usr/local/lib/node_modules/cca/cordova/cordova-android"
+        },
+        "ios": {
+            "uri": "/usr/local/lib/node_modules/cca/cordova/cordova-ios",
+            "url": "/usr/local/lib/node_modules/cca/cordova/cordova-ios"
+        },
+        "www": {
+            "uri": "/usr/local/lib/node_modules/cca/templates/default-app",
+            "link": false
+        }
+    }
+}
