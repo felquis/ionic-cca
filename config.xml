@@ -16,4 +16,4 @@
     <preference name="BackupWebStorage" value="none"/>
 
     <content src="plugins/org.chromium.bootstrap/chromeapp.html"/>
-<access origin="*"/></widget>
+<preference name="android-minSdkVersion" value="14"/><access origin="*"/></widget>
