@@ -4,8 +4,10 @@ Ionic project with CCA structure (Cordova Chrome App)
 
 1. clone this repo `git clone git@github.com:felquis/ionic-cca.git && cd ionic-cca`
 
-1. Install cca version 0.5.0 `npm install cca@0.5.0`
+1. Install cca version 0.5.0 `npm install cca@0.5.0 -g`
   > :warning: You must use CCA 0.5.0 to run this project
+
+  You may need to use `sudo` to install with `-g` flag
 
 1. Run `cca upgrade`
   If you see this question:
