@@ -7,7 +7,7 @@ Ionic project with CCA structure (Cordova Chrome App)
 1. Install cca version 0.5.0 `npm install cca@0.5.0`
   > :warning: You must use CCA 0.5.0 to run this project
 
-1. Ruin `cca upgrade`
+1. Run `cca upgrade`
   If you see this question:
   > Warning: Upgrade will replace all files in platforms and plugins. Continue? [y/N]
   Answer Y and continue
